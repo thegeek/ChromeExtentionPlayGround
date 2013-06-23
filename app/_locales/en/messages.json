@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "baseExtentions",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Test Base For Chrome Extetions",
+    "description": "The description of the application"
+  }
+}
